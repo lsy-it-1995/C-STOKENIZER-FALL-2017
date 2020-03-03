@@ -1,0 +1,29 @@
+      WORD         |it|
+     SPACE         | |
+      WORD         |was|
+     SPACE         | |
+      WORD         |the|
+     SPACE         | |
+      WORD         |night|
+     SPACE         | |
+      WORD         |of|
+     SPACE         | |
+    NUMBER         |15|
+    SYMBOL         |.|
+     SPACE         | |
+      WORD         |october|
+     SPACE         | |
+    NUMBER         |17|
+      WORD         |th|
+    SYMBOL         |.|
+     SPACE         | |
+      WORD         |pi|
+     SPACE         | |
+      WORD         |was|
+     SPACE         | |
+      WORD         |still|
+     SPACE         | |
+    NUMBER         |3.14|
+    SYMBOL         |.|
+Press <RETURN> to close this window...
+
